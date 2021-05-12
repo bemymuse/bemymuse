@@ -1,4 +1,4 @@
-<h1 align="center"> hello humans👋</h1>
+<h1 align="center"> hello human </h1>
 
 #### Developer
 
